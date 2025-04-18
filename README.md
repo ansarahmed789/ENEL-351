@@ -39,7 +39,7 @@ This project was a major stepping stone in applying embedded systems principles 
 
 ## Schematic  
 You can view the full schematic design as a PDF here:  
-📄 [View Final Schematic](schematics/ENEL351_Final_Schematic.pdf)  
+📄 [View Final Schematic](schematics/ENEL351 Final Schematic.pdf)  
 
 ## Future Improvements  
 - Integrate an **OLED display** for visual output  
