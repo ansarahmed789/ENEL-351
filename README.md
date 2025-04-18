@@ -38,13 +38,11 @@ This project was a major stepping stone in applying embedded systems principles 
 [Watch Project Demo](https://your-link-here.com)
 
 ## Schematic  
-Here is the final schematic used for this project:  
-![Final Schematic](schematics/ENEL351 Final Schematic.pdf)  
-*Make sure to place the converted image file in a folder named `schematics` inside your repository.*
+You can view the full schematic design as a PDF here:  
+📄 [View Final Schematic](schematics/ENEL351_Final_Schematic.pdf)  
 
 ## Future Improvements  
 - Integrate an **OLED display** for visual output  
 - Move to **interrupt-based event handling** for better performance  
 - Add **wireless communication** (Bluetooth/WiFi) for smart home integration  
 - Use **DMA** to improve USART communication efficiency  
-
